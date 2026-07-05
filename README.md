@@ -161,11 +161,4 @@ It is not a substitute for professional psychological, psychiatric, or medical a
 
 **Nitin Anand A**
 
-Final Year B.Tech Student
-
-AI Projects:
-- PsychInsight
-- CAGE (Current Affairs for Government Exams)
-- ElecGad (Electronic Gadget Purchase Assistant)
-
 ---
