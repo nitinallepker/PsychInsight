@@ -1,4 +1,5 @@
 # 🧠 PsychInsight
+
 ## -- Helping You Uncover the Psychology Behind your Experiences --
 
 PsychInsight is an AI-powered psychological insight assistant that helps users understand the psychology behind their experiences, thoughts, emotions, and behaviors.
